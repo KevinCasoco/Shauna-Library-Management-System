@@ -1,0 +1,18 @@
+c:\users\samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\bin\Debug\Shauna Library Managemenet System.exe.config
+c:\users\samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\obj\Debug\Shauna_Library_Managemenet_System.LogIn.resources
+c:\users\samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\obj\Debug\Shauna_Library_Managemenet_System.Resources.resources
+c:\users\samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\obj\Debug\Shauna Library Managemenet System.vbproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\bin\Debug\Shauna Library Managemenet System.exe
+c:\users\samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\bin\Debug\Shauna Library Managemenet System.pdb
+c:\users\samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\bin\Debug\Shauna Library Managemenet System.xml
+c:\users\samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\obj\Debug\Shauna Library Managemenet System.exe
+c:\users\samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\obj\Debug\Shauna Library Managemenet System.xml
+c:\users\samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\obj\Debug\Shauna Library Managemenet System.pdb
+c:\users\samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\obj\Debug\Shauna_Library_Managemenet_System.List_of_Books.resources
+c:\users\samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\obj\Debug\Shauna_Library_Managemenet_System.List_of_Students.resources
+c:\users\samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\obj\Debug\Shauna_Library_Managemenet_System.Return_of_Books.resources
+c:\users\samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\obj\Debug\Shauna_Library_Managemenet_System.Students.resources
+C:\Users\Samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\obj\Debug\Shauna_Library_Managemenet_System.Books.resources
+C:\Users\Samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\obj\Debug\Shauna_Library_Managemenet_System.Issue_of_Books.resources
+C:\Users\Samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\obj\Debug\Shauna_Library_Managemenet_System.Missing_of_Books.resources
+C:\Users\Samsung\documents\visual studio 2012\Projects\Shauna Library Managemenet System\Shauna Library Managemenet System\obj\Debug\Shauna_Library_Managemenet_System.Home_Page.resources
